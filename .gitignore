@@ -1,0 +1,12 @@
+# Ignores
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.testng.xml
+\.metadata/
+\testng_listener.xml
+Servers/
+target/
+Report/
+test-output/
